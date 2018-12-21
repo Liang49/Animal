@@ -1,0 +1,27 @@
+span {
+    font-weight: bold;
+  }
+  img{
+    width:300px;
+  height: 300px;
+}
+.fat {
+    font-style: italic;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.card {
+    border: 1px solid rgb(197, 222, 176);
+    padding: 1em;
+    width: 300px;
+    margin: auto;
+   }
+ .Fun{
+    border: 1px solid rgb(197, 222, 176);
+    width: 280px;
+    padding: 7px;
+    margin: auto;
+ }
